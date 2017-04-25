@@ -125,10 +125,6 @@ c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\materials.h
 c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\materials.h(369): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
 c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\materials.h(369): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
 c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\lastone.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\lastone.cpp(256): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\lastone.cpp(260): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\lastone.cpp(264): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\lastone.cpp(268): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
 c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\lastone.cpp(447): warning C4305: '+=': truncation from 'double' to 'GLfloat'
 c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\lastone.cpp(452): warning C4305: '-=': truncation from 'double' to 'GLfloat'
 c:\users\brand\documents\visual studio 2017\projects\lastone\lastone\lastone.cpp(513): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data

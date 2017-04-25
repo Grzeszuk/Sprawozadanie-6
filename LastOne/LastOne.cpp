@@ -254,19 +254,19 @@ void SolidPyramid()
 
 	glPushMatrix();
 	glTranslatef(3.0, 3.0, 0.0);
-	Cone3x3();
+	WireCone3x3();
 	glPopMatrix();
 	glPushMatrix();
 	glTranslatef(3.0, -3.0, 0.0);
-	Cone3x3();
+	WireCone3x3();
 	glPopMatrix();
 	glPushMatrix();
 	glTranslatef(-3.0, -3.0, 0.0);
-	Cone3x3();
+	WireCone3x3();
 	glPopMatrix();
 	glPushMatrix();
 	glTranslatef(-3.0, 3.0, 0.0);
-	Cone3x3();
+	WireCone3x3();
 	glPopMatrix();
 
 	
